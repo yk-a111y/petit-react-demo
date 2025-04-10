@@ -1,0 +1,4 @@
+overrides:
+  react: link:../../../.pnpm/global/5/node_modules/react
+  react-demo: link:../../../.pnpm/global/5/node_modules/react-demo
+  react-dom: link:../../../.pnpm/global/5/node_modules/react-dom
